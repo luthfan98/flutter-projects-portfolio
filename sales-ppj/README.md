@@ -51,7 +51,7 @@ Implementasi local database dengan sinkronisasi otomatis di background menggunak
 > Upload gambar-gambar berikut ke folder `screenshots/` dalam repo.
 
 #### 🔐 Login Page
-![Login](./screenshots/login.png)
+<img src="./screenshots/login.png" height="400"/>
 
 #### 🔐 Dashboard Page
 ![Dashboard](./screenshots/dashboard.png)
