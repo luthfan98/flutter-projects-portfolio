@@ -45,8 +45,6 @@ Mengoptimalkan server dengan arsitektur **multi-core**, memaksimalkan efisiensi 
 
 ## 📷 Screenshot Aplikasi
 
-> Upload screenshot ke folder `bank-mini-santri/screenshots/`.
-
 #### 🧾 Tagihan Bulanan
 ![Tagihan](./screenshots/tagihan.png)
 

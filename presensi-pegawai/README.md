@@ -36,8 +36,6 @@ Database: MySQL
 
 ## 📷 Screenshot Aplikasi
 
-> Upload screenshot ke folder `presensi-pegawai/screenshots/` dan ganti nama file di bawah sesuai dengan gambar milikmu.
-
 #### 📍 Presensi Pegawai Berdasarkan Lokasi GPS
 ![Presensi](./screenshots/presensi.png)
 

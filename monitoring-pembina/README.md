@@ -35,8 +35,6 @@ Database: MySQL
 
 ## 📷 Screenshot Aplikasi
 
-> Upload gambar ke folder `monitoring-pembina/screenshots/`.
-
 #### 📍 Presensi Pembina Berdasarkan GPS + Foto
 ![Presensi](./screenshots/presensi.png)
 

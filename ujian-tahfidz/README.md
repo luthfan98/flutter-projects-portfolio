@@ -34,7 +34,6 @@ Database: MySQL
 
 ## 📷 Screenshot Aplikasi
 
-> Upload screenshot ke folder `ujian-tahfidz/screenshots/` dan sesuaikan nama file seperti contoh di bawah.
 
 #### 👤 Pemilihan Santri
 ![Santri](./screenshots/santri.png)
