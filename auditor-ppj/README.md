@@ -46,19 +46,22 @@ Menggunakan sistem local database + background sync berbasis queue, sehingga pro
 
 ## 📷 Screenshot Aplikasi
 
-> Upload screenshot aplikasi ke folder `auditor-ppj/screenshots/` dan ganti nama file di bawah sesuai milikmu.
+Berikut adalah beberapa tampilan dari aplikasi Auditor PPJ:
 
-#### 📜 Daftar Nota Overdue
-![Nota Overdue](./screenshots/nota-overdue.png)
+#### 🔐 Halaman Login
+<img src="./screenshots/login.png" width="400"/>
 
-#### 📍 Presensi di Lokasi Pelanggan
-![Presensi](./screenshots/presensi.png)
+#### 🏠 Dashboard Auditor
+<img src="./screenshots/dashboard.png" width="600"/>
 
-#### 📸 Upload Bukti Audit Nota
-![Bukti Audit](./screenshots/audit.png)
+#### 📋 Daftar Kunjungan Pelanggan
+<img src="./screenshots/daftar-kunjungan.png" width="600"/>
 
-#### 📊 Statistik Audit Harian
-![Statistik](./screenshots/statistik.png)
+#### 🧾 Detail Kunjungan Pelanggan
+<img src="./screenshots/kunjungan-pelanggan.png" width="600"/>
+
+#### 📝 Input Laporan Audit
+<img src="./screenshots/input-laporan.png" width="600"/>
 
 ---
 
