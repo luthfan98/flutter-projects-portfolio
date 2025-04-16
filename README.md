@@ -57,8 +57,8 @@ Semua proyek dibangun dengan pendekatan **reliable architecture**, efisiensi off
 Jika Anda tertarik merekrut saya atau ingin berdiskusi lebih lanjut, silakan hubungi melalui:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luthfan-ihtisyamuddin-3b60a8145/)
-- 📧 Email: [tisyamuddin@gmail.com](mailto:tisyamuddin@gmail.com)
-- 🧑‍💻 GitHub: [github.com/uphanuddin](https://github.com/uphanuddin)
+- 📧 Email: [luthfan1498@gmail.com](mailto:luthfan1498@gmail.com)
+- 🧑‍💻 GitHub: [github.com/luthfan98](https://github.com/luthfan98)
 
 ---
 

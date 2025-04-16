@@ -53,8 +53,11 @@ Implementasi local database dengan sinkronisasi otomatis di background menggunak
 #### 🔐 Login Page
 ![Login](./screenshots/login.png)
 
-#### 📦 Form Order Pelanggan
-![Order](./screenshots/order.png)
+#### 🔐 Dashboard Page
+![Dashboard](./screenshots/dashboard.png)
+
+#### 📦 Form Kunjungan Pelanggan
+![Kunjungan](./screenshots/kunjungan.png)
 
 #### 🧾 Daftar Pelanggan & Update Stok
 ![Stok](./screenshots/stok.png)
