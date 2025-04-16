@@ -54,18 +54,17 @@ Implementasi local database dengan sinkronisasi otomatis di background menggunak
 <img src="./screenshots/login.png" height="400"/>
 
 #### 🔐 Dashboard Page
-![Dashboard](./screenshots/dashboard.png)
+<img src="./screenshots/dashboard.png" height="400"/>
 
 #### 📦 Form Kunjungan Pelanggan
-![Kunjungan](./screenshots/kunjungan.png)
+<img src="./screenshots/kunjungan.png" height="400"/>
 
 #### 🧾 Daftar Pelanggan & Update Stok
-![Stok](./screenshots/stok.png)
+<img src="./screenshots/stok.png" height="400"/>
 
 #### 📍 Presensi dengan Lokasi GPS
-![Presensi](./screenshots/presensi.png)
+<img src="./screenshots/presensi.png" height="400"/>
 
-*(Silakan ganti nama file di atas dengan nama gambar kamu yang sebenarnya)*
 
 ---
 
