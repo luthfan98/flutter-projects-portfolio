@@ -37,19 +37,37 @@ Database: MySQL
 
 ## 📷 Screenshot Aplikasi
 
-> Upload gambar ke folder `tpq-master/screenshots/` dan sesuaikan nama file di bawah.
+Berikut adalah beberapa tampilan dari aplikasi TPQ Master:
 
-#### 🧒 Daftar Santri & Guru
-![Santri](./screenshots/santri.png)
+#### 🔐 Halaman Login
+<img src="./screenshots/login.png" height="600"/>
 
-#### 💰 Manajemen SPP Santri
-![SPP](./screenshots/spp.png)
+#### 🏠 Dashboard
+<img src="./screenshots/dashboard.png" height="600"/>
 
-#### 📅 Presensi Harian Santri
-![Presensi](./screenshots/presensi.png)
+#### ⚙️ Pengaturan & Info Sekolah
+<img src="./screenshots/setting-info-sekolah.png" height="600"/>
 
-#### 📝 Penilaian Ujian & Raport
-![Raport](./screenshots/raport.png)
+#### 🧒 Manajemen Santri
+<img src="./screenshots/santri.png" height="600"/>
+
+#### 👨‍🏫 Manajemen Guru
+<img src="./screenshots/guru.png" height="600"/>
+
+#### 🏫 Manajemen Kelas
+<img src="./screenshots/kelas.png" height="600"/>
+
+#### 📅 Presensi Santri
+<img src="./screenshots/presensi.png" height="600"/>
+
+#### 📝 Penilaian Ujian Santri
+<img src="./screenshots/penilaian.png" height="600"/>
+
+#### 📊 Raport Santri
+<img src="./screenshots/raport.png" height="600"/>
+
+#### 💰 Manajemen SPP
+<img src="./screenshots/spp.png" height="600"/>
 
 ---
 
