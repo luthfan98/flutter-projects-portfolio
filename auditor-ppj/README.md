@@ -49,19 +49,19 @@ Menggunakan sistem local database + background sync berbasis queue, sehingga pro
 Berikut adalah beberapa tampilan dari aplikasi Auditor PPJ:
 
 #### 🔐 Halaman Login
-<img src="./screenshots/login.png" width="400"/>
+<img src="./screenshots/login.png" height="600"/>
 
 #### 🏠 Dashboard Auditor
-<img src="./screenshots/dashboard.png" width="600"/>
+<img src="./screenshots/dashboard.png" height="600"/>
 
 #### 📋 Daftar Kunjungan Pelanggan
-<img src="./screenshots/daftar-kunjungan.png" width="600"/>
+<img src="./screenshots/daftar-kunjungan.png" height="600"/>
 
 #### 🧾 Detail Kunjungan Pelanggan
-<img src="./screenshots/kunjungan-pelanggan.png" width="600"/>
+<img src="./screenshots/kunjungan-pelanggan.png" height="600"/>
 
 #### 📝 Input Laporan Audit
-<img src="./screenshots/input-laporan.png" width="600"/>
+<img src="./screenshots/input-laporan.png" height="600"/>
 
 ---
 
