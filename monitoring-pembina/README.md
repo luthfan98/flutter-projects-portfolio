@@ -35,17 +35,22 @@ Database: MySQL
 
 ## 📷 Screenshot Aplikasi
 
-#### 📍 Presensi Pembina Berdasarkan GPS + Foto
-![Presensi](./screenshots/presensi.png)
+Berikut adalah beberapa tampilan dari aplikasi Monitoring Kinerja Pembina:
 
-#### 📝 Laporan Tugas Harian
-![Tugas](./screenshots/tugas.png)
+#### 🚀 Splash Screen
+<img src="./screenshots/splash.png" height="600"/>
 
-#### 👨‍⚕️ Laporan Kesehatan Santri
-![Kesehatan](./screenshots/kesehatan.png)
+#### 🔐 Halaman Login
+<img src="./screenshots/login.png" height="600"/>
 
-#### 👦 Presensi & Laporan Santri
-![Santri](./screenshots/santri.png)
+#### 🏠 Dashboard Pembina
+<img src="./screenshots/dashboard.png" height="600"/>
+
+#### 📂 Menu Utama
+<img src="./screenshots/menu.png" height="600"/>
+
+#### 📋 Aktivitas Harian Pembina
+<img src="./screenshots/aktivitas.png" height="600"/>
 
 ---
 

@@ -34,18 +34,25 @@ Database: MySQL
 
 ## 📷 Screenshot Aplikasi
 
+Berikut adalah beberapa tampilan dari aplikasi Ujian Tahfidz:
+
+#### 🚀 Splash Screen
+<img src="./screenshots/splash.png" height="600"/>
+
+#### 👤 Login
+<img src="./screenshots/login.png" height="600"/>
 
 #### 👤 Pemilihan Santri
-![Santri](./screenshots/santri.png)
+<img src="./screenshots/santri.png" height="600"/>
 
 #### 🗂️ Pilihan Paket Soal
-![Paket Soal](./screenshots/paket.png)
+<img src="./screenshots/paket.png" height="600"/>
 
 #### ✅ Penilaian Ujian Tahfidz
-![Penilaian](./screenshots/penilaian.png)
+<img src="./screenshots/penilaian.png" height="600"/>
 
 #### 📊 History Penilaian
-![History](./screenshots/history.png)
+<img src="./screenshots/history.png" height="600"/>
 
 ---
 

@@ -45,14 +45,25 @@ Mengoptimalkan server dengan arsitektur **multi-core**, memaksimalkan efisiensi 
 
 ## 📷 Screenshot Aplikasi
 
+Berikut adalah beberapa tampilan dari aplikasi Bank Mini Santri:
+
+#### 🏠 Dashboard
+<img src="./screenshots/dashboard.png" height="600"/>
+
 #### 🧾 Tagihan Bulanan
-![Tagihan](./screenshots/tagihan.png)
+<img src="./screenshots/tagihan.png" height="600"/>
 
-#### 💳 Saldo & Riwayat Uang Saku
-![Saldo](./screenshots/saldo.png)
+#### 📚 History Pembayaran
+<img src="./screenshots/history-pembayaran.png" height="600"/>
 
-#### 📚 Riwayat Pembayaran
-![Pembayaran](./screenshots/pembayaran.png)
+#### 🧭 Panduan Pembayaran
+<img src="./screenshots/panduan-bayar.png" height="600"/>
+
+#### 💳 Dompet Uang Saku
+<img src="./screenshots/dompet-uang-saku.png" height="600"/>
+
+#### 📰 Berita & Informasi Santri
+<img src="./screenshots/berita.png" height="600"/>
 
 ---
 

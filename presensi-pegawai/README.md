@@ -36,17 +36,28 @@ Database: MySQL
 
 ## 📷 Screenshot Aplikasi
 
+Berikut adalah beberapa tampilan dari aplikasi Presensi Pegawai:
+
+#### 🔐 Halaman Login
+<img src="./screenshots/login.png" height="600"/>
+
+#### 🏠 Dashboard Pegawai
+<img src="./screenshots/dashboard.png" height="600"/>
+
+#### 📝 Form Perizinan Tidak Hadir
+<img src="./screenshots/perizinan.png" height="600"/>
+
+#### 💵 Form Klaim Nota
+<img src="./screenshots/klaim.png" height="600"/>
+
+#### 📋 Laporan Kondisi Toko
+<img src="./screenshots/lapor.png" height="600"/>
+
 #### 📍 Presensi Pegawai Berdasarkan Lokasi GPS
-![Presensi](./screenshots/presensi.png)
+<img src="./screenshots/presensi-gps.png" height="600"/>
 
 #### 📆 History Presensi Harian
-![History](./screenshots/history.png)
-
-#### 📋 Form Laporan Toko
-![Laporan Toko](./screenshots/laporan.png)
-
-#### 📑 Pengajuan Izin Tidak Hadir
-![Izin](./screenshots/izin.png)
+<img src="./screenshots/history-presensi.png" height="600"/>
 
 ---
 
